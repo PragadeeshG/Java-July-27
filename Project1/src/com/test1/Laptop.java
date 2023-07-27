@@ -1,6 +1,6 @@
 package com.test1;
 
-// POJO Class
+// POJO Class  Laptop Class
 public class Laptop {
 // Variables
 	private String brand;
